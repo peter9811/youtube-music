@@ -222,7 +222,7 @@
   },
   "pnpm": {
     "overrides": {
-      "vite": "6.2.0",
+      "vite": "6.2.7",
       "node-gyp": "11.1.0",
       "xml2js": "0.6.2",
       "node-fetch": "3.3.2",
@@ -315,7 +315,7 @@
     "electron-builder-squirrel-windows": "26.0.10",
     "electron-devtools-installer": "4.0.0",
     "electron-vite": "3.0.0",
-    "esbuild": "0.25.0",
+    "esbuild": "0.25.1",
     "eslint": "9.21.0",
     "eslint-config-prettier": "10.0.2",
     "eslint-import-resolver-exports": "1.0.0-beta.5",
@@ -329,7 +329,7 @@
     "typescript": "5.8.2",
     "typescript-eslint": "8.26.0",
     "utf-8-validate": "6.0.5",
-    "vite": "6.2.0",
+    "vite": "6.2.7",
     "vite-plugin-inspect": "11.0.0",
     "vite-plugin-resolve": "2.5.2",
     "vite-plugin-solid": "2.11.6",
